@@ -1,0 +1,2 @@
+bencoder.pyx==1.2.1
+bencodepy==0.9.5
